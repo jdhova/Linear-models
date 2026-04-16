@@ -1,0 +1,201 @@
+monthly_txn_count,avg_txn_amount,cross_border_ratio,cash_deposit_ratio,account_age_months,risk_score,risk_level,txn_amount_segment,border_activity,deposit_behavior,customer_profile
+122,940.2424124,0.688499901,0.411255117,74,54.37874428,Medium,Medium,High,Balanced,Medium risk | Medium txn | High border
+199,475.9588526,0.058193596,0.777602284,67,38.46909187,Medium,Small,Low,Cash Heavy,Medium risk | Small txn | Low border
+112,862.1943983,0.915213728,0.480370082,83,58.22041958,High,Medium,High,Balanced,High risk | Medium txn | High border
+34,1772.396505,0.44235223,0.985286051,122,63.85257802,High,Large,Moderate,Cash Heavy,High risk | Large txn | Moderate border
+126,682.472791,0.239787359,0.37673897,125,30.6032376,Low,Medium,Low,Balanced,Low risk | Medium txn | Low border
+91,288.0715117,0.09387329,0.7495783,142,34.04606027,Low,Small,Low,Cash Heavy,Low risk | Small txn | Low border
+208,744.7807843,0.182865997,0.392989449,167,22.43190885,Low,Medium,Low,Balanced,Low risk | Medium txn | Low border
+40,1818.315461,0.934613997,0.829164221,81,85.3228616,High,Large,High,Cash Heavy,High risk | Large txn | High border
+122,580.6578863,0.638270594,0.569081469,40,59.26680177,High,Small,Moderate,Balanced,High risk | Small txn | Moderate border
+141,1312.995735,0.516696257,0.06351183,6,39.98014961,Medium,Large,Moderate,Mostly Digital,Medium risk | Large txn | Moderate border
+230,51.01473514,0.657111329,0.036821868,45,39.12122625,Medium,Small,Moderate,Mostly Digital,Medium risk | Small txn | Moderate border
+234,737.5092699,0.435672899,0.133852119,69,43.07028914,Medium,Medium,Moderate,Mostly Digital,Medium risk | Medium txn | Moderate border
+94,644.3234534,0.730039317,0.013671965,155,28.29046853,Low,Small,High,Mostly Digital,Low risk | Small txn | High border
+222,371.0789136,0.047716128,0.07535906,65,19.74114124,Low,Small,Low,Mostly Digital,Low risk | Small txn | Low border
+107,1091.474368,0.56603721,0.691714397,69,53.03339859,Medium,Medium,Moderate,Cash Heavy,Medium risk | Medium txn | Moderate border
+136,995.4184442,0.158646448,0.534346275,98,48.58391142,Medium,Medium,Low,Balanced,Medium risk | Medium txn | Low border
+119,1400.250264,0.120164648,0.749910749,77,54.30567734,Medium,Large,Low,Cash Heavy,Medium risk | Large txn | Low border
+123,575.3540509,0.341879667,0.913165752,16,58.82301838,High,Small,Moderate,Cash Heavy,High risk | Small txn | Moderate border
+171,526.0447684,0.091799066,0.585149532,110,37.52073746,Medium,Small,Low,Balanced,Medium risk | Small txn | Low border
+150,378.1675322,0.094156988,0.726120844,19,32.52576982,Low,Small,Low,Cash Heavy,Low risk | Small txn | Low border
+169,476.5902282,0.311413309,0.757081202,65,44.62274797,Medium,Small,Low,Cash Heavy,Medium risk | Small txn | Low border
+72,1138.298904,0.979510529,0.377850549,35,67.2604886,High,Medium,High,Balanced,High risk | Medium txn | High border
+21,837.4805336,0.17533027,0.241084832,40,18.29524921,Low,Medium,Low,Mostly Digital,Low risk | Medium txn | Low border
+107,176.5398819,0.017161102,0.205045329,170,11.99986216,Low,Small,Low,Mostly Digital,Low risk | Small txn | Low border
+177,545.1350572,0.763364423,0.25144244,10,53.63921466,Medium,Small,High,Mostly Digital,Medium risk | Small txn | High border
+57,531.4083225,0.806912977,0.274731797,88,41.36726992,Medium,Small,High,Mostly Digital,Medium risk | Small txn | High border
+149,1407.793332,0.346304321,0.207227649,128,47.49304228,Medium,Large,Moderate,Mostly Digital,Medium risk | Large txn | Moderate border
+211,1438.92765,0.464673813,0.878220667,83,74.75433145,High,Large,Moderate,Cash Heavy,High risk | Large txn | Moderate border
+207,338.7695134,0.649773683,0.756999132,159,53.55376907,Medium,Small,Moderate,Cash Heavy,Medium risk | Small txn | Moderate border
+40,1995.593946,0.048058924,0.046896468,67,38.43503225,Medium,Large,Low,Mostly Digital,Medium risk | Large txn | Low border
+180,570.2229778,0.949145732,0.268672482,137,50.63494069,Medium,Small,High,Mostly Digital,Medium risk | Small txn | High border
+223,1954.399164,0.886680387,0.022184742,94,77.1240976,High,Large,High,Mostly Digital,High risk | Large txn | High border
+77,851.522176,0.260893623,0.498165187,47,41.13374541,Medium,Medium,Low,Balanced,Medium risk | Medium txn | Low border
+41,114.4489292,0.01530454,0.476210697,94,11.18992807,Low,Small,Low,Balanced,Low risk | Small txn | Low border
+108,722.8889337,0.933436308,0.83137149,151,67.01855715,High,Medium,High,Cash Heavy,High risk | Medium txn | High border
+68,1286.985122,0.501039884,0.30777724,45,41.47003588,Medium,Medium,Moderate,Mostly Digital,Medium risk | Medium txn | Moderate border
+238,1377.375631,0.539377448,0.816385735,77,79.75862363,High,Large,Moderate,Cash Heavy,High risk | Large txn | Moderate border
+78,1085.322437,0.683963769,0.967973765,44,67.53340194,High,Medium,High,Cash Heavy,High risk | Medium txn | High border
+189,923.1771709,0.615851164,0.088408223,109,44.6690388,Medium,Medium,Moderate,Mostly Digital,Medium risk | Medium txn | Moderate border
+239,1128.141524,0.943891605,0.791817839,19,93.16882113,High,Medium,High,Cash Heavy,High risk | Medium txn | High border
+207,1205.758612,0.944251597,0.589955897,37,77.07236405,High,Medium,High,Balanced,High risk | Medium txn | High border
+227,207.6639863,0.867198934,0.480045967,130,50.08576516,Medium,Small,High,Balanced,Medium risk | Small txn | High border
+34,770.8261893,0.636403597,0.420535779,171,30.73676735,Low,Medium,Moderate,Balanced,Low risk | Medium txn | Moderate border
+209,522.2118796,0.800949295,0.784668264,102,70.13315986,High,Small,High,Cash Heavy,High risk | Small txn | High border
+209,1616.122525,0.677168342,0.639361357,28,72.84461702,High,Large,High,Balanced,High risk | Large txn | High border
+194,967.0862372,0.573367042,0.805044668,68,75.59422761,High,Medium,Moderate,Cash Heavy,High risk | Medium txn | Moderate border
+209,1967.675125,0.128500353,0.903151059,148,55.50176866,High,Large,Low,Cash Heavy,High risk | Large txn | Low border
+70,827.7076628,0.811204177,0.617263712,158,62.42163577,High,Medium,High,Balanced,High risk | Medium txn | High border
+127,1642.042153,0.820639476,0.980462725,150,81.57966941,High,Large,High,Cash Heavy,High risk | Large txn | High border
+74,1606.772994,0.62593967,0.60808785,58,63.74811404,High,Large,Moderate,Balanced,High risk | Large txn | Moderate border
+83,343.8992107,0.820426844,0.636644322,109,48.2549403,Medium,Small,High,Balanced,Medium risk | Small txn | High border
+150,1040.987615,0.651484772,0.554815609,109,60.83285202,High,Medium,Moderate,Balanced,High risk | Medium txn | Moderate border
+248,1406.834973,0.20668436,0.091002091,44,48.06335596,Medium,Large,Low,Mostly Digital,Medium risk | Large txn | Low border
+70,1723.799669,0.273961127,0.726397033,139,57.77206972,High,Large,Low,Cash Heavy,High risk | Large txn | Low border
+154,685.6198651,0.21458912,0.547446307,72,40.77221308,Medium,Medium,Low,Balanced,Medium risk | Medium txn | Low border
+40,479.4700428,0.377259083,0.450910447,140,28.62038855,Low,Small,Moderate,Balanced,Low risk | Small txn | Moderate border
+92,1436.741588,0.038963132,0.910471278,47,48.86855435,Medium,Large,Low,Cash Heavy,Medium risk | Large txn | Low border
+186,1628.52704,0.618253884,0.297959452,20,67.11104972,High,Large,Moderate,Mostly Digital,High risk | Large txn | Moderate border
+37,729.8986752,0.336554215,0.523602276,116,34.51694339,Low,Medium,Moderate,Balanced,Low risk | Medium txn | Moderate border
+151,237.5442746,0.655722635,0.697641871,162,39.38366118,Medium,Small,Moderate,Cash Heavy,Medium risk | Small txn | Moderate border
+108,1884.020366,0.385396621,0.796471776,38,61.6600545,High,Large,Moderate,Cash Heavy,High risk | Large txn | Moderate border
+79,825.2654411,0.681613669,0.459346808,160,49.7554507,Medium,Medium,High,Balanced,Medium risk | Medium txn | High border
+33,1059.615134,0.340624569,0.842091415,169,43.9126995,Medium,Medium,Moderate,Cash Heavy,Medium risk | Medium txn | Moderate border
+28,1683.534707,0.260694528,0.768917741,162,46.82035594,Medium,Large,Low,Cash Heavy,Medium risk | Large txn | Low border
+109,1367.595728,0.496037454,0.066235978,43,46.19331594,Medium,Large,Moderate,Mostly Digital,Medium risk | Large txn | Moderate border
+72,1483.671433,0.692890359,0.045861266,102,50.05067423,Medium,Large,High,Mostly Digital,Medium risk | Large txn | High border
+149,457.6896604,0.348336604,0.620805684,160,35.79846977,Medium,Small,Moderate,Balanced,Medium risk | Small txn | Moderate border
+103,1105.823549,0.936648152,0.347413408,38,60.50385013,High,Medium,High,Balanced,High risk | Medium txn | High border
+111,1406.779579,0.039186327,0.209130791,91,33.01071117,Low,Large,Low,Mostly Digital,Low risk | Large txn | Low border
+130,495.6725425,0.417946032,0.579649934,71,38.51258372,Medium,Small,Moderate,Balanced,Medium risk | Small txn | Moderate border
+207,391.1621078,0.967580552,0.34156321,15,66.12309496,High,Small,High,Balanced,High risk | Small txn | High border
+218,1965.228269,0.547971883,0.537263417,10,70.51610735,High,Large,Moderate,Balanced,High risk | Large txn | Moderate border
+191,1057.439988,0.423470942,0.460119159,128,56.21183996,High,Medium,Moderate,Balanced,High risk | Medium txn | Moderate border
+27,558.6168909,0.568520284,0.584766106,79,43.46960336,Medium,Small,Moderate,Balanced,Medium risk | Small txn | Moderate border
+194,1992.694715,0.575924575,0.400300489,102,71.75544175,High,Large,Moderate,Balanced,High risk | Large txn | Moderate border
+54,1932.567735,0.731647755,0.697667574,123,75.12133172,High,Large,High,Cash Heavy,High risk | Large txn | High border
+225,1138.672235,0.127689729,0.180067272,43,50.22827808,Medium,Medium,Low,Mostly Digital,Medium risk | Medium txn | Low border
+100,1771.140869,0.250016449,0.696501466,146,58.50207574,High,Large,Low,Cash Heavy,High risk | Large txn | Low border
+183,417.9788613,0.580544012,0.411661214,164,34.11588255,Low,Small,Moderate,Balanced,Low risk | Small txn | Moderate border
+69,593.7991376,0.867116607,0.874317605,52,57.6361236,High,Small,High,Cash Heavy,High risk | Small txn | High border
+123,1415.697768,0.561866692,0.515236055,114,54.79760923,Medium,Large,Moderate,Balanced,Medium risk | Large txn | Moderate border
+151,1700.989227,0.23859686,0.973110349,20,69.40394249,High,Large,Low,Cash Heavy,High risk | Large txn | Low border
+21,1719.832369,0.67984478,0.601935396,162,60.80873282,High,Large,High,Balanced,High risk | Large txn | High border
+153,838.7908479,0.73990876,0.223849066,141,45.63617692,Medium,Medium,High,Mostly Digital,Medium risk | Medium txn | High border
+73,1781.151693,0.238236152,0.821790637,10,61.87414047,High,Large,Low,Cash Heavy,High risk | Large txn | Low border
+125,1709.310475,0.377728886,0.345082628,162,45.61031918,Medium,Large,Moderate,Balanced,Medium risk | Large txn | Moderate border
+23,1874.488239,0.534327474,0.347619214,52,51.6916765,Medium,Large,Moderate,Balanced,Medium risk | Large txn | Moderate border
+73,1581.41427,0.496561191,0.031804681,73,37.05266727,Medium,Large,Moderate,Mostly Digital,Medium risk | Large txn | Moderate border
+240,1354.527097,0.389618086,0.548715309,81,58.20625597,High,Large,Moderate,Balanced,High risk | Large txn | Moderate border
+210,1182.338912,0.297635175,0.534423504,178,42.65447935,Medium,Medium,Low,Balanced,Medium risk | Medium txn | Low border
+165,775.9513948,0.099984887,0.355991484,135,25.60916281,Low,Medium,Low,Balanced,Low risk | Medium txn | Low border
+237,1883.260213,0.053485297,0.894217263,160,68.70452913,High,Large,Low,Cash Heavy,High risk | Large txn | Low border
+63,1948.644482,0.958541497,0.128748398,100,61.29033513,High,Large,High,Mostly Digital,High risk | Large txn | High border
+181,603.6459007,0.847143144,0.330099513,120,68.59909671,High,Small,High,Balanced,High risk | Small txn | High border
+221,645.4595277,0.35490519,0.321582765,169,41.8397332,Medium,Small,Moderate,Mostly Digital,Medium risk | Small txn | Moderate border
+209,996.9468195,0.956800885,0.092290586,41,66.34367855,High,Medium,High,Mostly Digital,High risk | Medium txn | High border
+247,924.4270788,0.676769904,0.481145394,31,63.50019879,High,Medium,High,Balanced,High risk | Medium txn | High border
+33,1989.192052,0.48252095,0.687784717,48,67.66228134,High,Large,Moderate,Cash Heavy,High risk | Large txn | Moderate border
+114,393.0542427,0.493025658,0.511657014,32,40.58494787,Medium,Small,Moderate,Balanced,Medium risk | Small txn | Moderate border
+67,85.24695905,0.083284411,0.156977683,74,10.38814992,Low,Small,Low,Mostly Digital,Low risk | Small txn | Low border
+34,1013.092745,0.091704147,0.377285965,153,35.70860815,Medium,Medium,Low,Balanced,Medium risk | Medium txn | Low border
+219,398.704283,0.602440926,0.002595024,16,43.37057276,Medium,Small,Moderate,Mostly Digital,Medium risk | Small txn | Moderate border
+225,764.6141299,0.553703052,0.868301107,79,72.35271309,High,Medium,Moderate,Cash Heavy,High risk | Medium txn | Moderate border
+234,1501.13252,0.212727895,0.084517008,109,41.82950719,Medium,Large,Low,Mostly Digital,Medium risk | Large txn | Low border
+209,1455.832852,0.946194543,0.597278082,43,84.28131139,High,Large,High,Balanced,High risk | Large txn | High border
+59,650.7185441,0.78129605,0.986256996,139,68.386568,High,Small,High,Cash Heavy,High risk | Small txn | High border
+232,1107.95345,0.113464602,0.536590646,28,48.03049368,Medium,Medium,Low,Balanced,Medium risk | Medium txn | Low border
+227,1042.18745,0.930929106,0.924041759,52,95.93861721,High,Medium,High,Cash Heavy,High risk | Medium txn | High border
+101,1290.848605,0.974248209,0.236116533,95,66.23308939,High,Medium,High,Mostly Digital,High risk | Medium txn | High border
+130,538.4005463,0.995931242,0.759955409,51,66.97015301,High,Small,High,Cash Heavy,High risk | Small txn | High border
+72,1200.248153,0.055871155,0.531265754,112,36.56289525,Medium,Medium,Low,Balanced,Medium risk | Medium txn | Low border
+43,1958.841074,0.737035557,0.720516061,145,74.24453438,High,Large,High,Cash Heavy,High risk | Large txn | High border
+173,999.1471983,0.54591577,0.062341363,146,45.3018438,Medium,Medium,Moderate,Mostly Digital,Medium risk | Medium txn | Moderate border
+236,1816.892636,0.705831484,0.147739092,109,61.22984517,High,Large,High,Mostly Digital,High risk | Large txn | High border
+207,897.0690127,0.968651944,0.133116929,116,57.81109057,High,Medium,High,Mostly Digital,High risk | Medium txn | High border
+143,732.652895,0.68803001,0.687165505,109,57.00238824,High,Medium,High,Cash Heavy,High risk | Medium txn | High border
+60,1307.951556,0.836963874,0.844440673,65,71.20185861,High,Large,High,Cash Heavy,High risk | Large txn | High border
+176,1354.401916,0.866868705,0.749616232,176,77.78019972,High,Large,High,Cash Heavy,High risk | Large txn | High border
+34,1735.126752,0.838480764,0.030472153,105,54.49403683,Medium,Large,High,Mostly Digital,Medium risk | Large txn | High border
+64,498.8612731,0.426091475,0.867214981,73,38.86977346,Medium,Small,Moderate,Cash Heavy,Medium risk | Small txn | Moderate border
+84,1023.427091,0.222576418,0.354146671,138,33.716237,Low,Medium,Low,Balanced,Low risk | Medium txn | Low border
+108,1165.408188,0.396651602,0.397163833,125,46.73595343,Medium,Medium,Moderate,Balanced,Medium risk | Medium txn | Moderate border
+90,1548.680328,0.891896909,0.104869167,42,64.96727813,High,Large,High,Mostly Digital,High risk | Large txn | High border
+28,135.0273549,0.146604822,0.737405206,77,29.38561286,Low,Small,Low,Cash Heavy,Low risk | Small txn | Low border
+107,1989.373496,0.513326169,0.182283878,132,58.49372608,High,Large,Moderate,Mostly Digital,High risk | Large txn | Moderate border
+148,966.3918023,0.233228072,0.563965092,111,45.34388727,Medium,Medium,Low,Balanced,Medium risk | Medium txn | Low border
+155,595.1426665,0.581305417,0.840709986,97,57.48975069,High,Small,Moderate,Cash Heavy,High risk | Small txn | Moderate border
+235,1772.813343,0.863138522,0.089204329,36,67.72735197,High,Large,High,Mostly Digital,High risk | Large txn | High border
+82,1508.051609,0.880359969,0.535335564,127,69.17485323,High,Large,High,Balanced,High risk | Large txn | High border
+158,1908.490102,0.236685194,0.233216412,142,49.32018203,Medium,Large,Low,Mostly Digital,Medium risk | Large txn | Low border
+100,694.9630941,0.907693706,0.342926864,56,57.32479193,High,Medium,High,Balanced,High risk | Medium txn | High border
+155,1127.891685,0.591888739,0.473969941,34,53.7999868,Medium,Medium,Moderate,Balanced,Medium risk | Medium txn | Moderate border
+182,1165.970315,0.350218247,0.355104303,45,45.52951824,Medium,Medium,Moderate,Balanced,Medium risk | Medium txn | Moderate border
+182,1961.646588,0.708181196,0.64882284,46,87.95737594,High,Large,High,Balanced,High risk | Large txn | High border
+52,196.9251992,0.481666988,0.479582102,16,34.96399934,Low,Small,Moderate,Balanced,Low risk | Small txn | Moderate border
+142,646.1091876,0.37798759,0.584199485,156,44.49369407,Medium,Small,Moderate,Balanced,Medium risk | Small txn | Moderate border
+24,422.2765107,0.705084364,0.736822475,6,51.19425418,Medium,Small,High,Cash Heavy,Medium risk | Small txn | High border
+60,573.5259709,0.248724154,0.557742266,51,33.65057232,Low,Small,Low,Balanced,Low risk | Small txn | Low border
+47,996.2957548,0.330252529,0.586535435,106,44.31807973,Medium,Medium,Moderate,Balanced,Medium risk | Medium txn | Moderate border
+154,776.7393908,0.434451844,0.564458543,154,43.00814534,Medium,Medium,Moderate,Balanced,Medium risk | Medium txn | Moderate border
+220,819.6483603,0.253682174,0.378772626,95,43.97352102,Medium,Medium,Low,Balanced,Medium risk | Medium txn | Low border
+91,1696.215624,0.405202087,0.337446834,115,47.28010181,Medium,Large,Moderate,Balanced,Medium risk | Large txn | Moderate border
+31,1863.532828,0.571473025,0.899647397,169,62.30325209,High,Large,Moderate,Cash Heavy,High risk | Large txn | Moderate border
+181,187.3114552,0.740973861,0.607555222,62,53.7667769,Medium,Small,High,Balanced,Medium risk | Small txn | High border
+52,457.3914993,0.767194853,0.244353155,6,44.79219009,Medium,Small,High,Mostly Digital,Medium risk | Small txn | High border
+67,1358.729858,0.822790352,0.498247698,68,61.20105952,High,Large,High,Balanced,High risk | Large txn | High border
+170,749.3612235,0.744211657,0.330348481,60,62.42531901,High,Medium,High,Balanced,High risk | Medium txn | High border
+81,545.6191157,0.681039427,0.933691824,120,51.36992577,Medium,Small,High,Cash Heavy,Medium risk | Small txn | High border
+235,625.8166474,0.237506471,0.007534363,173,27.10397706,Low,Small,Low,Mostly Digital,Low risk | Small txn | Low border
+56,678.9739903,0.400222893,0.225332798,148,24.70707576,Low,Small,Moderate,Mostly Digital,Low risk | Small txn | Moderate border
+118,1704.9061,0.477714891,0.36535682,154,60.4024226,High,Large,Moderate,Balanced,High risk | Large txn | Moderate border
+191,316.4115963,0.082891322,0.487809801,58,33.20538911,Low,Small,Low,Balanced,Low risk | Small txn | Low border
+123,1432.376444,0.528370121,0.850817518,142,69.14826155,High,Large,Moderate,Cash Heavy,High risk | Large txn | Moderate border
+233,1127.998955,0.436335832,0.087887625,62,42.50112718,Medium,Medium,Moderate,Mostly Digital,Medium risk | Medium txn | Moderate border
+238,628.1947801,0.802109249,0.805864887,122,71.91861892,High,Small,High,Cash Heavy,High risk | Small txn | High border
+54,868.5726701,0.977900669,0.055653489,159,49.46460467,Medium,Medium,High,Mostly Digital,Medium risk | Medium txn | High border
+212,549.60354,0.556005039,0.842314035,174,57.43350028,High,Small,Moderate,Cash Heavy,High risk | Small txn | Moderate border
+246,1242.451736,0.322686388,0.051635478,40,54.22908845,Medium,Medium,Low,Mostly Digital,Medium risk | Medium txn | Low border
+120,209.1086518,0.043400783,0.018242481,68,8.725276977,Low,Small,Low,Mostly Digital,Low risk | Small txn | Low border
+194,60.11048241,0.92464333,0.696961462,30,71.75494755,High,Small,High,Cash Heavy,High risk | Small txn | High border
+225,1274.394109,0.919115715,0.997255535,95,100.9608407,High,Medium,High,Cash Heavy,High risk | Medium txn | High border
+150,428.8342093,0.252990168,0.896610263,80,43.88823279,Medium,Small,Low,Cash Heavy,Medium risk | Small txn | Low border
+20,188.3347881,0.695411123,0.575998418,43,38.78685897,Medium,Small,High,Balanced,Medium risk | Small txn | High border
+24,823.7284631,0.075434547,0.917395613,135,40.36794881,Medium,Medium,Low,Cash Heavy,Medium risk | Medium txn | Low border
+237,148.9986355,0.166215432,0.005300006,140,28.04288054,Low,Small,Low,Mostly Digital,Low risk | Small txn | Low border
+161,1778.90344,0.216809107,0.975067163,167,60.56424928,High,Large,Low,Cash Heavy,High risk | Large txn | Low border
+122,103.8527052,0.294493947,0.490748779,96,26.99286411,Low,Small,Low,Balanced,Low risk | Small txn | Low border
+46,1178.786546,0.995831375,0.722896097,22,71.77937569,High,Medium,High,Cash Heavy,High risk | Medium txn | High border
+156,905.0245399,0.696925056,0.820861473,133,57.59702933,High,Medium,High,Cash Heavy,High risk | Medium txn | High border
+226,1360.450964,0.384201831,0.718457271,176,56.50200059,High,Large,Moderate,Cash Heavy,High risk | Large txn | Moderate border
+34,689.8977016,0.737100706,0.535036732,113,41.5722047,Medium,Medium,High,Balanced,Medium risk | Medium txn | High border
+109,352.3311526,0.915254342,0.476619484,157,46.26536853,Medium,Small,High,Balanced,Medium risk | Small txn | High border
+61,1964.589732,0.958702407,0.838582559,30,87.19456977,High,Large,High,Cash Heavy,High risk | Large txn | High border
+143,1685.920329,0.057863898,0.20507756,93,40.40205402,Medium,Large,Low,Mostly Digital,Medium risk | Large txn | Low border
+224,1727.789006,0.394521799,0.967994067,166,81.29745216,High,Large,Moderate,Cash Heavy,High risk | Large txn | Moderate border
+198,537.990153,0.106756066,0.710952479,34,38.72835637,Medium,Small,Low,Cash Heavy,Medium risk | Small txn | Low border
+82,125.7277321,0.335660065,0.199506927,68,26.70330343,Low,Small,Moderate,Mostly Digital,Low risk | Small txn | Moderate border
+115,641.3677536,0.169679904,0.736247184,155,34.34554831,Low,Small,Low,Cash Heavy,Low risk | Small txn | Low border
+71,1097.310733,0.646848362,0.529840023,159,49.82803569,Medium,Medium,Moderate,Balanced,Medium risk | Medium txn | Moderate border
+115,686.9699215,0.388268384,0.707230096,161,46.09879211,Medium,Medium,Moderate,Cash Heavy,Medium risk | Medium txn | Moderate border
+151,1664.344557,0.229394746,0.767779501,119,52.70486189,Medium,Large,Low,Cash Heavy,Medium risk | Large txn | Low border
+241,579.5086858,0.265937925,0.08729018,54,38.67476088,Medium,Small,Low,Mostly Digital,Medium risk | Small txn | Low border
+248,1932.241069,0.360345095,0.506103956,86,70.62055432,High,Large,Moderate,Balanced,High risk | Large txn | Moderate border
+170,941.6670651,0.259949863,0.932014342,89,58.13586605,High,Medium,Low,Cash Heavy,High risk | Medium txn | Low border
+162,1691.944996,0.453240847,0.320642192,110,58.16450261,High,Large,Moderate,Mostly Digital,High risk | Large txn | Moderate border
+190,429.0410663,0.032315951,0.593883098,153,42.24025242,Medium,Small,Low,Balanced,Medium risk | Small txn | Low border
+48,852.1401149,0.279763507,0.369230482,123,26.30588659,Low,Medium,Low,Balanced,Low risk | Medium txn | Low border
+55,1414.048811,0.411206721,0.454267972,91,44.15468193,Medium,Large,Moderate,Balanced,Medium risk | Large txn | Moderate border
+32,319.7885302,0.602781882,0.548603118,68,35.65356914,Medium,Small,Moderate,Balanced,Medium risk | Small txn | Moderate border
+179,308.8535734,0.270957643,0.54892198,109,33.93198499,Low,Small,Low,Balanced,Low risk | Small txn | Low border
+90,1940.596891,0.133185125,0.201730462,54,40.12675867,Medium,Large,Low,Mostly Digital,Medium risk | Large txn | Low border
+206,1443.460453,0.07620038,0.684571548,76,60.05829144,High,Large,Low,Cash Heavy,High risk | Large txn | Low border
+105,130.0816577,0.940531827,0.087868111,6,52.26906284,Medium,Small,High,Mostly Digital,Medium risk | Small txn | High border
+47,827.7007578,0.416639058,0.138824773,146,24.07476626,Low,Medium,Moderate,Mostly Digital,Low risk | Medium txn | Moderate border
+85,895.3654383,0.581162621,0.002710899,128,30.07716794,Low,Medium,Moderate,Mostly Digital,Low risk | Medium txn | Moderate border
+189,1500.883154,0.919176552,0.116696064,67,71.72890601,High,Large,High,Mostly Digital,High risk | Large txn | High border
+64,539.1780283,0.08274842,0.473166201,37,23.32190493,Low,Small,Low,Balanced,Low risk | Small txn | Low border
+81,409.4506649,0.876661486,0.606101881,163,53.4721181,Medium,Small,High,Balanced,Medium risk | Small txn | High border
+204,207.7022849,0.551587873,0.79428945,34,57.91296117,High,Small,Moderate,Cash Heavy,High risk | Small txn | Moderate border
+153,885.2132261,0.164834261,0.10669925,54,23.67615821,Low,Medium,Low,Mostly Digital,Low risk | Medium txn | Low border
